@@ -1,7 +1,6 @@
 # Hi, I'm Fary Hurtado 👨🏿‍💻👋🏿
 
-I'm a software engineer who is passionate about continuous learning and building systems that are simple, scalable, and easy to maintain.  
-Over the years, I've worked on cloud migrations, microservices architectures, and data pipelines, always focusing on creating reliable and maintainable solutions.
+I'm a software engineer who is passionate about continuous learning and building systems that are simple, scalable, and easy to maintain. Over the years, I've worked on cloud migrations, microservices architectures, and data pipelines, always focusing on creating reliable and maintainable solutions.
 
 ## Skills
 
